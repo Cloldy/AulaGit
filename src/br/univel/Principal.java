@@ -10,7 +10,7 @@ public class Principal {
 	
 	public static void main(String[] args) {
 		System.out.println("Fala ae mano das quebradas");
-		System.out.println("A rua é nóis!");
+		System.out.println("It's  we!");
 	}
 	
 }
